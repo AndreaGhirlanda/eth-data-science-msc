@@ -1,6 +1,6 @@
 # ETH Data Science Notes
 
-Here you can find list of the courses I successfully completed during my Master's program. Within this repository, you will find the lecture notes, along with supplementary materials relevant to the courses I have taken. Moreover, for courses that required a project, you will find a link of the repository containing the assignment for the respective course.
+Here you can find list of the courses I successfully completed during my Master's program. The table below shows all the courses I have completed during my Master's in Data Science along with summaries and projects.
 
 | Course                                                       |                           Website                            |     Summary   |                           Project                            |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :--------------: | :----------------------------------------------------------: |
